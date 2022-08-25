@@ -35,7 +35,7 @@ public abstract class GameEntity {
         return damage;
     }
 
-    public void setDamage() {
+    public void setDamage(int i) {
         this.damage = damage;
     }
 
